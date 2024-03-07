@@ -106,7 +106,7 @@ function init() {
       scaleSpeed: 1.2,
       pinch: true,
     },
-    trashcan: false,
+    trashcan: true,
     theme: Blockly.Theme.defineTheme('modest', {
       fontStyle: {
         family: 'Google Sans',
